@@ -1,8 +1,3 @@
-# Group 8
-----------
-* 2014A7PS014G Rohan Goel
-* 2014A7PS356G Pulkit Agarwal
-
 # Introduction
 ---------------
 Plants vs Zombies is a tower-defense and strategy game. 
@@ -24,3 +19,8 @@ In this mini-version we implmented only 2 zombies:
 *Football Zombie - It's a tough zombie and it takes the PeaShooter 5 shots to kill it.
 
 Watch the video at : https://youtu.be/ZqmCRmsnW9U
+
+# Developers
+----------
+* Rohan Goel (rohangoel96)
+* Pulkit Agarwal (thepulkitagarwal)
