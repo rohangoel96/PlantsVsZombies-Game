@@ -1,8 +1,6 @@
 # Introduction
 ---------------
-Plants vs Zombies is a tower-defense and strategy game. 
-
-A mob of zombies are about to invade your home and eat your brains. The only way you can stop them is by using your arsenal of plants that will zap the zombies at your command. The plants - Pea-shooters, Beetroots, Walnuts, and Sunflowers - are all set to destroy the zombies who dare to enter your backyard.
+Plants vs Zombies (https://en.wikipedia.org/wiki/Plants_vs._Zombies) is a tower-defense and strategy game. The game involves an army of zombies trying to enter the house and eat your brains. The only way you can stop them is by using your arsenal of plants that will zap the zombies at your command. The plants - Pea-shooters, Beetroots, Walnuts, and Sunflowers - are all set to destroy the zombies who dare to enter your backyard.
 
 # Guide
 --------
@@ -18,7 +16,7 @@ In this mini-version we implmented only 2 zombies:
 *Normal Zombie - Normal zombies and their time-themed variants in Plants vs. Zombies 2 are the most basic "zombie" units. In fact, it takes four shots for a pea plant to kill them. Having no special defensive equipment or travel abilities, these zombies are susceptible to any type of attack.
 *Football Zombie - It's a tough zombie and it takes the PeaShooter 5 shots to kill it.
 
-Watch the video at : https://youtu.be/ZqmCRmsnW9U
+Watch the demo video at : https://youtu.be/ZqmCRmsnW9U
 
 # Developers
 ----------
