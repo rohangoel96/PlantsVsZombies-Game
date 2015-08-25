@@ -24,4 +24,6 @@ In this mini-version we implemented only 2 zombies:
 * Rohan Goel (rohangoel96)
 * Pulkit Agarwal (thepulkitagarwal)
 
-### Watch the demonstration video at : https://youtu.be/ZqmCRmsnW9U
+
+
+### Watch the demonstration video at : https://www.youtube.com/watch?v=ZqmCRmsnW9U
