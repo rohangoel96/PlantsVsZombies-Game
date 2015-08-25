@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=cost
+comment0.target=void\ setCostOfPlant(int)
+comment0.text=\r\n\ Sets\ the\ cost\ of\ each\ plant\ in\ terms\ of\ sun\r\n
+comment1.params=x\ y
+comment1.target=void\ setIconCoordinates(int,\ int)
+comment1.text=\r\n\ Sets\ the\ position\ of\ the\ icon\ on\ the\ sidebar\r\n
+comment2.params=plant
+comment2.target=void\ createPlant(Plants)
+comment2.text=\r\n\ To\ create\ a\ plant\r\n
+comment3.params=plant\ world\ sunCounter
+comment3.target=void\ createPlantDragAndDrop(Plants,\ Backyard,\ Counter)
+comment3.text=\r\n\ The\ logic\ for\ the\ Drag\ and\ Drop\ is\ in\ this\ function.\r\n
+comment4.params=activeImageLink
+comment4.target=void\ setActiveImage(java.lang.String)
+comment4.text=\r\n\ Sets\ colorful\ image\ of\ the\ icon\ when\ it\ can\ be\ bought\r\n
+comment5.params=inactiveImageLink
+comment5.target=void\ setInactiveImage(java.lang.String)
+comment5.text=\r\n\ Sets\ the\ grayscale\ image\ of\ the\ icon\ when\ it\ can't\ be\ bought\ \r\n
+numComments=6

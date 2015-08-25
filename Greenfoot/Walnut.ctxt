@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Walnut()
+comment0.text=\r\n\ Constructor\ for\ Walnut\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ zombie_normal\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ halfDead()
+comment2.text=\r\n\ Animating\ the\ walnut\ at\ half\ life\r\n
+numComments=3

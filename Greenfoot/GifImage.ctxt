@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=file
+comment0.target=GifImage(java.lang.String)
+comment0.text=\r\n\ Construct\ a\ new\ GifImage\ instance\ using\ the\ specified\ image\ file.\r\n\ The\ animation\ will\ initially\ be\ running.\ Use\ getImage()\ at\ any\ time\r\n\ to\ get\ the\ current\ image\ in\ the\ animation\ sequence.\r\n
+comment1.params=
+comment1.target=java.util.List\ getImages()
+comment1.text=\r\n\ Get\ all\ the\ images\ used\ in\ the\ animation\r\n\ @return\ a\ list\ of\ GreenfootImages,\ corresponding\ to\ each\ frame.\r\n
+comment2.params=
+comment2.target=void\ pause()
+comment2.text=\r\n\ Pause\ the\ animation.\r\n
+comment3.params=
+comment3.target=void\ resume()
+comment3.text=\r\n\ Resume\ the\ animation.\r\n
+comment4.params=
+comment4.target=boolean\ isRunning()
+comment4.text=\r\n\ Determines\ whether\ the\ animation\ is\ running\r\n\ @return\ true\ if\ the\ animation\ is\ running,\ false\ otherwise\r\n
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ getCurrentImage()
+comment5.text=\r\n\ Get\ the\ current\ image\ in\ the\ animation\ sequence.\ This\ will\r\n\ change\ over\ time.\r\n\ @return\ \ The\ current\ image\r\n
+comment6.params=
+comment6.target=void\ loadImages()
+comment6.text=\r\n\ Load\ the\ images\r\n
+numComments=7

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=bulletSpeed
+comment0.target=void\ setSpeed(int)
+comment0.text=\r\n\ Sets\ the\ speed\ of\ the\ bullet\r\n
+comment1.params=
+comment1.target=void\ checkBoundaries()
+comment1.text=\r\n\ Removes\ the\ bullet\ if\ it\ reaches\ the\ right\ edge\ of\ the\ screen\r\n
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StartScreen()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ StartScreen.\r\n
+comment1.params=
+comment1.target=void\ stopBackgroundMusic()
+comment1.text=\r\n\ Stops\ the\ background\ music\ once\ the\ screen\ is\ changed\r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ Adds\ a\ button\ to\ the\ screen\ on\ start\ up\ which\ starts\ the\ game\r\n
+numComments=3

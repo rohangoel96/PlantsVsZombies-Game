@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Counter()
+comment1.params=prefix
+comment1.target=Counter(java.lang.String)
+comment1.text=\r\n\ Create\ a\ new\ counter,\ initialised\ to\ 0.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Animate\ the\ display\ to\ count\ up\ (or\ down)\ to\ the\ current\ target\ value.\r\n
+comment3.params=score
+comment3.target=void\ add(int)
+comment3.text=\r\n\ Add\ a\ new\ score\ to\ the\ current\ counter\ value.\ \ This\ will\ animate\r\n\ the\ counter\ over\ consecutive\ frames\ until\ it\ reaches\ the\ new\ value.\r\n
+comment4.params=
+comment4.target=int\ getValue()
+comment4.text=\r\n\ Return\ the\ current\ counter\ value.\r\n
+comment5.params=newValue
+comment5.target=void\ setValue(int)
+comment5.text=\r\n\ Set\ a\ new\ counter\ value.\ \ This\ will\ not\ animate\ the\ counter.\r\n
+comment6.params=prefix
+comment6.target=void\ setPrefix(java.lang.String)
+comment6.text=\r\n\ Sets\ a\ text\ prefix\ that\ should\ be\ displayed\ before\r\n\ the\ counter\ value\ (e.g.\ "Score\:\ ").\r\n
+comment7.params=
+comment7.target=void\ updateImage()
+comment7.text=\r\n\ Update\ the\ image\ on\ screen\ to\ show\ the\ current\ value.\r\n
+numComments=8

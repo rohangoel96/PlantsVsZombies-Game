@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=posX\ posY
+comment0.target=Shovel(int,\ int)
+comment0.text=\r\n\ Connstructor\ for\ shovel\ placing\ it\ in\ the\ right\ position\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ The\ act\ method\ is\ called\ by\ the\ greenfoot\ framework\ to\ give\ actors\ a\ chance\ to\ perform\ some\ action.\r\n
+comment2.params=
+comment2.target=void\ removePlant()
+comment2.text=\r\n\ Removes\ the\ plant\ if\ the\ shovel\ touches\ it\r\n\ Also\ implemetns\ the\ dragging\ feature\r\n
+numComments=3

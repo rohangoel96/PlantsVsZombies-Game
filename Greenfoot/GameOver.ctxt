@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=score
+comment0.target=GameOver(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameOver.\r\n
+comment1.params=
+comment1.target=void\ stopBackgroundMusic()
+comment1.text=\r\n\ Stops\ the\ background\ music\ after\ playing\ it\ once\r\n
+numComments=2

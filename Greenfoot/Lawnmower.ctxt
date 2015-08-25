@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lawnmower()
+comment0.text=\r\n\ Setting\ the\ image\ in\ the\ constructor\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ The\ act\ method\ is\ called\ by\ the\ greenfoot\ framework\ to\ give\ actors\ a\ chance\ to\ perform\ some\ action.\r\n\ Here\ it\ moves\ the\ lawn\ mover\ if\ zombie\ reaches\ the\ last\ column\ ,\ killing\ any\ zombies\ in\ the\ way\r\n
+comment2.params=
+comment2.target=void\ checkBoundaries()
+comment2.text=\r\n\ Removes\ the\ lawnmover\ from\ the\ world\ if\ it\ reaches\ the\ right\ edge\r\n
+numComments=3

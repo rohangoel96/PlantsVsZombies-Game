@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=time
+comment0.target=void\ setTimeToLive(int)
+comment0.text=\r\n\ \ Sets\ the\ life\ of\ the\ plant\r\n
+comment1.params=filename\ timeLoop
+comment1.target=void\ plantHit(java.lang.String,\ int)
+comment1.text=\r\n\ Checks\ if\ the\ zombie\ is\ eating\ up\ the\ plant\r\n
+comment2.params=filename\ timeLoop
+comment2.target=void\ dyingPlantAnimation(java.lang.String,\ int)
+comment2.text=\r\n\ Plays\ the\ animation\ when\ the\ plant\ dies\r\n
+numComments=3

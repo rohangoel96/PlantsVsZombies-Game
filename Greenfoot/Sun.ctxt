@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Sun()
+comment0.text=\r\n\ Constructor\ for\ Sun\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ method\ for\ the\ sun,\ checks\ if\ the\ sun\ is\ collected\ and\ then\ adds\ up\ 25\ to\ sun_counter\r\n
+comment2.params=
+comment2.target=void\ sunDrop()
+comment2.text=\r\n\ Stops\ the\ sun\ when\ it\ reaches\ the\ bottom\ of\ the\ screen\r\n
+comment3.params=
+comment3.target=void\ letTheSunFall()
+comment3.text=\r\n\ Enables\ the\ sun\ to\ fall\r\n
+numComments=4

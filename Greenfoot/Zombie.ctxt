@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Zombie()
+comment0.text=\r\n\ Constructor\ for\ Zombie\ Class\ ,\ plays\ sound\ when\ the\ first\ zombie\ comes\ \r\n
+comment1.params=speed
+comment1.target=void\ setSpeed(int)
+comment1.text=\r\n\ This\ method\ sets\ the\ speed\ of\ a\ zombie\ object\r\n
+comment2.params=health
+comment2.target=void\ setHealth(int)
+comment2.text=\r\n\ This\ method\ sets\ the\ health\ of\ a\ zombie\ object\r\n
+comment3.params=damage\ filename\ timeLoop\ points
+comment3.target=void\ zombieHit(int,\ java.lang.String,\ int,\ int)
+comment3.text=\r\n\ This\ method\ is\ called\ whenever\ a\ zombie\ is\ hit\ by\ an\ object\ of\ the\ bullet\ class.\r\n\ It\ takes\ four\ inputs\:\r\n\ 1.\ the\ damage\ caused\ by\ the\ bullet,\ which\ is\ reduced\ from\ its\ health,\r\n\ 2.\ the\ filename\ where\ the\ animation\ for\ its\ removal\ is\ stored,\r\n\ 3.\ the\ time\ of\ a\ loop\ of\ the\ gif,\ and\r\n\ 4.\ the\ points\ for\ killing\ the\ zombie\r\n
+comment4.params=filename\ timeLoop
+comment4.target=void\ dyingZombieAnimation(java.lang.String,\ int)
+comment4.text=\r\n\ This\ class\ is\ related\ to\ the\ animation\ part\ of\ the\ the\ zombie\ being\ removed\ from\ the\ screen\r\n
+comment5.params=
+comment5.target=void\ checkGameOver()
+comment5.text=\r\n\ Checks\ if\ any\ Zombie\ crosses\ the\ garden\ and\ enters\ the\ house\ and\ ends\ the\ game\r\n
+numComments=6

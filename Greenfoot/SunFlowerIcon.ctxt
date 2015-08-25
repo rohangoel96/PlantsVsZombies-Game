@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=positionX\ positionY
+comment0.target=SunFlowerIcon(int,\ int)
+comment0.text=\r\n\ The\ constructor\ sets\ the\ images\ for\ both\ active\ and\ inactive\ states\ along\ with\ the\ cost\ and\ position\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

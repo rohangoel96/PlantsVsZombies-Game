@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=filename\ timeforloop
+comment0.target=DeadActor(java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ of\ DeadActor\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Removes\ the\ dead\ plant\ after\ the\ dying\ animation\r\n
+numComments=2
