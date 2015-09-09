@@ -24,7 +24,6 @@ In this mini-version we implemented only 2 zombies:
 * Rohan Goel (rohangoel96)
 * Pulkit Agarwal (thepulkitagarwal)
 
-<br>
 
-*Download and play the game (13MB) : http://bit.ly/java-PvZ*
+*Download and play the game (13MB) : http://bit.ly/java-PvZ* <br>
 *Watch the demonstration video at : https://www.youtube.com/watch?v=ZqmCRmsnW9U*
